@@ -1,4 +1,5 @@
 # cowfunc
+[![Build Status](https://dev.azure.com/heyAyushhh/cowfunc/_apis/build/status/heyAyushh.cowfunc)](https://dev.azure.com/heyAyushhh/cowfunc/_build/latest?definitionId=1)  
 Azure function to cowsay.  
 Serverless API's to provide npm module cowsay as response.  
   
